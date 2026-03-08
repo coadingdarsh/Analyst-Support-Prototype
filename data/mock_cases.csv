@@ -1,0 +1,11 @@
+case_id,account_id,detected_country,claimed_country,vpn_detected,proxy_detected,gps_spoof_flag,emulator_flag,remote_desktop_flag,device_mismatch,failed_attempts_24h,suspicious_sessions_7d,previous_fraud_flag,transaction_value
+GC-1001,AC-901,CA,CA,0,0,0,0,0,0,1,0,0,45
+GC-1002,AC-902,CA,US,1,0,1,0,0,1,7,4,0,300
+GC-1003,AC-903,GB,GB,0,1,0,1,0,1,3,2,1,120
+GC-1004,AC-904,US,US,0,0,0,0,1,1,8,6,0,260
+GC-1005,AC-905,DE,CA,1,1,1,1,1,1,12,8,1,900
+GC-1006,AC-906,CA,CA,0,0,0,0,0,0,0,1,0,20
+GC-1007,AC-907,FR,FR,0,0,1,0,0,0,2,3,0,85
+GC-1008,AC-908,US,CA,1,0,0,0,0,1,6,5,0,150
+GC-1009,AC-909,CA,CA,0,0,0,1,0,0,4,2,0,70
+GC-1010,AC-910,BR,US,1,1,0,0,1,1,10,7,1,550
